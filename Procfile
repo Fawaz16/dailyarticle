@@ -1,1 +1,1 @@
-web: gunicorn DAILYPOST.wsgi
+web:gunicorn DAILYPOST.wsgi
