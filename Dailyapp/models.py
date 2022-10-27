@@ -4,7 +4,6 @@ from email.mime import image
 from django.db import models
 from distutils.command.upload import upload
 from datetime import datetime
-from turtle import title
 from django.forms import DateTimeField
 from django.contrib.auth.models import User
 
